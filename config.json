@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervender",
+        "uuid": 4125440,
+        "checksum": "hzamrf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
